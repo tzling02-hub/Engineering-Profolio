@@ -1,22 +1,44 @@
-# Hi, I'm Tzling 👋
+# Tzling Feng
 
-Mechanical Engineering student at the University of North Texas.
+Mechanical Engineering student | University of North Texas
 
-## Current Goals
-- Earn MATLAB Onramp certification
-- Earn Simulink Onramp certification
+Welcome to my engineering portfolio! This repository showcases my academic projects, engineering designs, certifications, and hands-on experience as I continue to grow as a mechanical engineer.
+
+## Current Focus
+- Formula SAE Drivetrain Team 
+- Earn MATLAB & Simulink Onramp certification
 - Learn SolidWorks and obtain CSWA
-- Contribute to the UNT Formula SAE Drivetrain Team
-- Build an RC car from scratch
+- RC Car Design Project
 
-## Projects
-- Formula SAE Drivetrain
-- RC Car Build
+## Repository Contents
+- About Me
+- Resume
+- Certifications
+- Formula SAE
+- RC Car Project
+- CAD Projects
+- Simulink 
+- Engineering Notes
 
 ## Certifications
 - MATLAB Onramp (In Progress)
 - Simulink Onramp (In Progress)
 
+## Skills
+CAD Software
+- Creo
+- OnShape
+- SolidWorks (learning)
+- Autodesk
+Coding Language 
+- C++
+- Python
+- Java
+- MATLAB
+Others
+- Simulink (learning)
+
 ## Contact
-LinkedIn:
-Portfolio Website:
+LinkedIn: https://www.linkedin.com/in/tzling-feng-163335367
+
+Thank you for visiting my portfolio
