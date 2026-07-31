@@ -1,4 +1,3 @@
-# Engineering-Profolio
 # Hi, I'm Tzling 👋
 
 Mechanical Engineering student at the University of North Texas.
